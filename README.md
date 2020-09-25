@@ -1,4 +1,4 @@
-# WttI Customied Cornerstone
+# WttI Customized Cornerstone
 
 Re-implementing changes made in the same group's multi-sf-cart repo to do so in a more extensible way. Currently exists as a non-fork.
 
