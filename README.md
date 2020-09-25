@@ -1,3 +1,7 @@
+# WttI Customied Cornerstone
+
+Re-implementing changes made in the same group's multi-sf-cart repo to do so in a more extensible way. Currently exists as a non-fork.
+
 # Cornerstone
 [![Build Status](https://travis-ci.org/bigcommerce/cornerstone.svg?branch=master)](https://travis-ci.org/bigcommerce/cornerstone)
 
