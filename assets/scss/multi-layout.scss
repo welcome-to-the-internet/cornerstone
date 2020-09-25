@@ -1,0 +1,24 @@
+#multi-desc {
+  border:solid #e5e5e5 2px;
+  display:flex;
+  flex-direction:row;
+  justify-content: space-evenly;
+  padding:10px;
+  flex-wrap:wrap;
+  min-width:218px;
+}
+#multi-desc .card {
+  border:thick double #e5e5e5;
+  margin:10px;
+  min-width:218px;
+}
+#multi-desc .card-title, .card-body {
+  margin:10px;
+}
+#multiButton{
+  font-size:20px;
+  font-family: "Montserrat", Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.25px;
+  margin-bottom: 0.786em;
+}
